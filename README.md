@@ -22,6 +22,6 @@ The below parameters from Udacity rubric had to be followed:
        - Components (Images, Image caption, Buttons, Cards)
        - Multi-Device Web Design
 
-## Installetion 
+## Installation 
      Not required
 
