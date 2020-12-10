@@ -17,10 +17,10 @@ The below parameters from Udacity rubric had to be followed:
 - HTML Style Rules
 - CSS Formatting Rules
 - CSS Style Rules
-       - Utilize flexbox and Grid to create content layouts
-       - Typography
-       - Components (Images, Image caption, Buttons, Cards)
-       - Multi-Device Web Design
+        - Utilize flexbox and Grid to create content layouts
+        - Typography
+        - Components (Images, Image caption, Buttons, Cards)
+        - Multi-Device Web Design
 
 ## Installation 
      Not required
