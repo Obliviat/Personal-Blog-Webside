@@ -1,7 +1,22 @@
 /* FOOTER */
 
 footer {
-	background-color: #29101f;
-	width: auto;
-	height: 40px;
+  padding: 10px;
+  background-color: #29101f;
+  width: auto;
+  height: 40px;
+  margin: 0;
+  padding-top: 5px;
+}
+
+footer p {
+  font-family: "Oswald", sans-serif;
+  color: #f0ac5f;
+  font-size: 0.75rem;
+  font-weight: 600;
+  margin-left: 80px;
+}
+
+.f-index {
+  margin-top: 30px;
 }

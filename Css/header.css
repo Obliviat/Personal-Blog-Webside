@@ -5,52 +5,49 @@
  */
 
 header {
-	background-color: #29101f;
-	height: 300px;
-	margin: 0;
+  background-color: #29101f;
+  height: 300px;
+  margin: 0;
 }
 .contheader {
-	max-width: 1200px;
-	margin: 0 auto;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 .icons {
-	float: right;
-	margin-top: 20px;
-	justify-content: flex-end;
+  float: right;
+  margin-top: 20px;
+  justify-content: flex-end;
 }
 .logo {
-	float: left;
+  float: left;
 }
 .links {
-	display: flex;
-	justify-content: center;
-	padding-top: 13rem;
-	text-transform: uppercase;
-}
-
-.clearfix::after {
-	content: "";
-	display: block;
-	clear: both;
+  display: flex;
+  justify-content: center;
+  padding-top: 13rem;
+  text-transform: uppercase;
 }
 
 @media (max-width: 680px) {
-	.icons {
-		float: none;
-		margin-top: 0;
-		padding-top: 10px;
-		text-align: center;
-	}
-	.logo {
-		float: none;
-		text-align: center;
-	}
-	.links {
-		display: flex;
-		justify-content: center;
-		padding-top: 0;
-	}
-	.links a {
-		margin: 7px;
-	}
+  header {
+    height: 400px;
+  }
+  .icons {
+    float: none;
+    margin-top: 0;
+    padding-top: 10px;
+    text-align: center;
+  }
+  .logo {
+    float: none;
+    text-align: center;
+  }
+  .links {
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
+  }
+  .links a {
+    margin: 7px;
+  }
 }
